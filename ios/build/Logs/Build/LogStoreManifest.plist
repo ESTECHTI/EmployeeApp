@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>1A41F555-1C66-4FBB-934E-9DF454419DCC</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>1A41F555-1C66-4FBB-934E-9DF454419DCC.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>manager project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>manager</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project manager with scheme manager and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>561578009.69708002</real>
+			<key>timeStoppedRecording</key>
+			<real>561578012.98703504</real>
+			<key>title</key>
+			<string>Building project manager with scheme manager and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>1A41F555-1C66-4FBB-934E-9DF454419DCC</string>
+		</dict>
+		<key>923717F5-621D-459A-92B6-327B6276CCAA</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>923717F5-621D-459A-92B6-327B6276CCAA.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>manager project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>manager</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project manager with scheme manager and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>561576675.44569802</real>
+			<key>timeStoppedRecording</key>
+			<real>561576681.45569694</real>
+			<key>title</key>
+			<string>Building project manager with scheme manager and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>923717F5-621D-459A-92B6-327B6276CCAA</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

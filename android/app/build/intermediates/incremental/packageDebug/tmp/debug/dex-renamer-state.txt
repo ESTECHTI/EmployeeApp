@@ -1,0 +1,4 @@
+#Sun Oct 14 22:45:02 BRT 2018
+base.0=/Users/Elisandro/Documents/The-complete-react-native-and-redux-course/manager/android/app/build/intermediates/transforms/dexMerger/debug/0
+renamed.0=classes.dex
+path.0=classes.dex
